@@ -7,5 +7,6 @@ from categories import Categories
 import exceptions
 import expenses
 
+from telebot import credentials
 
-API_TOKEN = "5754987037:AAGPua5X3mS5LBklVCREPaLqxlqmWH7GWgY"
+API_TOKEN = credentials.API_TOKEN
