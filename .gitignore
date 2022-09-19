@@ -1,4 +1,3 @@
 *.py[co]
 *.sw[po]
-*~
-telebot/credential.py
+*~/telebot/
